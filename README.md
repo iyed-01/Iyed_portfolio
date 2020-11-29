@@ -33,13 +33,17 @@ Results:
 ## [Project: The Hottest Topics in Machine Learning](https://github.com/iyed-01/The-Hottest-Topics-in-Machine-Learning)
 * Prepare the text for LDA analysis.
 * Analysing trends with LDA.
-![](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/sentiment_analysis.PNG)
+
+![](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/NIPS_LDA.PNG)
 ---
 
 ## [Project: ASL Recognition with Deep Learning](https://github.com/iyed-01/ASL-Recognition-with-Deep-Learning)
 * One-hot encode the data.
 * Build a convolutional neural network to classify the data.
-![](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/NIPS_LDA.PNG)
+
+result:
+
+![](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/ASL_recognition.PNG)
 ---
 ## Project (Internship): Tunisia Stock market forecasting 
 * Time Series
