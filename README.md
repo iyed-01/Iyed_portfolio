@@ -13,6 +13,7 @@ This repository contains my personal projects.
 * Build a RNN model.
 
 Results:
+
 ![accuracy](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/accuracy.PNG)
 
 ![loss](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/loss.PNG)
@@ -35,7 +36,7 @@ In collaboration with @anisfakhfakh
 * Build a model capable of predicting the sentiment of a tweet from a labeled dataset
 ![](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/sentiment_analysis.PNG)
 
-###[report](https://drive.google.com/file/d/1mQyEo7B1EIN7iaZXUDSzKWji6MVWG37X/view)
+[report](https://drive.google.com/file/d/1mQyEo7B1EIN7iaZXUDSzKWji6MVWG37X/view)
 
 
 
