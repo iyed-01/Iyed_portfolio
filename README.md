@@ -54,6 +54,7 @@ result:
 
 
 Code and report are not included due to privacy policy by the internship
+
 ---
 
 ## [Project: Twitter Sentiment Analysis](https://github.com/anisfakhfakh/Twitter-sentiment-analysis)
@@ -62,7 +63,7 @@ In collaboration with @anisfakhfakh
 * Build a model capable of predicting the sentiment of a tweet from a labeled dataset.
 ![](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/sentiment_analysis.PNG)
 
-### [report](https://drive.google.com/file/d/1mQyEo7B1EIN7iaZXUDSzKWji6MVWG37X/view)
+### [twitter sentiment analysis report](https://drive.google.com/file/d/1mQyEo7B1EIN7iaZXUDSzKWji6MVWG37X/view)
 
 
 
