@@ -22,6 +22,10 @@ Results:
 
 ---
 
+## [Project: Object Detection]()
+
+---
+
 ## [Project: The Hottest Topics in Machine Learning](https://github.com/iyed-01/The-Hottest-Topics-in-Machine-Learning)
 
 ---
