@@ -9,9 +9,10 @@ This repository contains my personal projects.
 * Build a RNN model.
 
 Results:
-![loss](images/loss.png)
-![accuracy](images/accuracy.png)
+![accuracy](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/accuracy.PNG)
 
-![test_results](images/test.png)
+![loss](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/loss.PNG)
+
+![test_results](https://github.com/iyed-01/My-projects-portfolio/blob/main/images/test_results.PNG)
 
 ---
