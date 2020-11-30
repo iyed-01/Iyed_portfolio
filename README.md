@@ -4,7 +4,8 @@ Owner: Iyed Amor
 
 This repository contains my personal projects.
 
-## [Project: Text Normalization(Active)]()
+## [Project: Text Normalization](https://github.com/iyed-01/Text-Normalization-Challenge---English-Language-)
+* Build a xgboost model to convert English text from written expressions into spoken forms.
 
 
 ---
