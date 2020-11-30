@@ -4,6 +4,13 @@ Owner: Iyed Amor
 
 This repository contains my personal projects.
 
+## Project: Forensic sketch to image generator using GAN(Active)
+* Build a GAN model to generate image from forensic sketch.
+
+
+
+---
+
 ## [Project: Text Normalization](https://github.com/iyed-01/Text-Normalization-Challenge---English-Language-)
 * Build a xgboost model to convert English text from written expressions into spoken forms.
 
@@ -31,14 +38,14 @@ Results:
 
 ---
 
-## [Project: The Hottest Topics in Machine Learning](https://github.com/iyed-01/The-Hottest-Topics-in-Machine-Learning)
+## [Notebook: The Hottest Topics in Machine Learning](https://github.com/iyed-01/The-Hottest-Topics-in-Machine-Learning)
 * Prepare the text for LDA analysis.
 * Analysing trends with LDA.
 
 ![](/images/NIPS_LDA.PNG)
 ---
 
-## [Project: ASL Recognition with Deep Learning](https://github.com/iyed-01/ASL-Recognition-with-Deep-Learning)
+## [Notebook: ASL Recognition with Deep Learning](https://github.com/iyed-01/ASL-Recognition-with-Deep-Learning)
 * One-hot encode the data.
 * Build a convolutional neural network to classify the data.
 
